@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BlazorFirstApp_FromScratch.props" />
+</Project>
